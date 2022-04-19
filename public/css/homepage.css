@@ -1,0 +1,14 @@
+.navbar {
+    height: 30%;
+}
+
+.navbar-nav {
+    width: 125px;
+    display: block;
+    margin: 50px auto;
+    border: 1px solid;
+}
+
+#menu {
+    padding-left: 30%;
+}
